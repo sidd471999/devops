@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.Date;
 
 /**
-* Sorting - Generic Comparators
+* Sorting - Generic Comparatorss
 *
 * @author Seshagiri Sriram
 * @version 1.0 
